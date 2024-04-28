@@ -12,12 +12,11 @@
       "minimum": "10",
       "verified": "11"
     }
-    "packs": [
+    "packs":
       {
         "name": "hey-o-tarot",
         "label": "Tarot Deck",
         "system": "Item",
         "type": "Item"
       }
-  ]
   }
