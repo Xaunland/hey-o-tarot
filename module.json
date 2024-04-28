@@ -4,7 +4,9 @@
     "description": "A simple tarot deck for use in the Foundry VTT system.",
     "authors": [
       {
-      "name": "Xaunland"
+      "name": "Xaunland",
+      "email": "dragoni82@gmail.com",
+      "url": "https://github.com/Xaunland/hey-o-tarot"
       }
     ],
     "version": "0.0.1",
@@ -18,5 +20,12 @@
         "label": "Tarot Deck",
         "system": "Item",
         "type": "Item"
-      }
+      },
+      "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ]
   }
