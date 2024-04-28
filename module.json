@@ -5,27 +5,14 @@
     "authors": [
       {
       "name": "Xaunland",
-     // "email": "dragoni82@gmail.com",
-     // "url": "https://github.com/Xaunland/hey-o-tarot"
+      "email": "dragoni82@gmail.com",
+      "url": "https://github.com/Xaunland/hey-o-tarot"
       }
     ],
     "version": "0.0.1",
     "compatibility": {
       "minimum": "10",
       "verified": "11"
-    },
-    /*"packs":
-      {
-        "name": "hey-o-tarot",
-        "label": "Tarot Deck",
-        "system": "Item",
-        "type": "Item"
-      },
-      "languages": [
-        {
-          "lang": "en",
-          "name": "English",
-          "path": "lang/en.json"
-        }
-    ]*/
+    }
+
   }
