@@ -1,18 +1,12 @@
 {
     "id": "hey-o-tarot",
     "title": "Tarot Deck for VTT",
-    "description": "A simple tarot deck for use in the Foundry VTT system.",
-    "authors": [
-      {
-      "name": "Xaunland"
-      }
-    ],
-    "version": "0.0.1",
+    "version": "1.0.0",
     "compatibility": {
-      "minimum": "10",
-      "verified": "10"
+      "minimum": "11",
+      "verified": "11"
     },
-    "url":"https://github.com/Xaunland/hey-o-tarot/tree/art-placeholders"
-
+    "description": "Test Module",
+    "url": "https://github.com/Xaunland/hey-o-tarot/"
 
   }
